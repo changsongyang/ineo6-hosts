@@ -60,5 +60,6 @@ export const githubUrls = [
   'objects.githubusercontent.com',
   'raw.github.com',
   'copilot-proxy.githubusercontent.com',
-  'lncn.org'
+  'lncn.org',
+  'google.com'
 ];
