@@ -22,7 +22,7 @@
 
 请查看 [next hosts](https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts)
 
-内容定时更新，最近更新时间：2023-03-09 00:11:17。
+内容定时更新，最近更新时间：2023-03-09 14:11:38。
 
 ```bash
 # New！欢迎使用基于DNS的新方案
@@ -31,10 +31,12 @@
 # 也可以关注公众号：湖中剑，保证不迷路
 # GitHub Host Start
 
+104.21.95.3                  lncn.org
+
 # Please Star : https://github.com/ineo6/hosts
 # Mirror Repo : https://gitlab.com/ineo6/hosts
 
-# Update at: 2023-03-09 00:11:17
+# Update at: 2023-03-09 14:11:38
 
 # GitHub Host End
 ```
